@@ -8,7 +8,8 @@ These maps paint from the map of real world by me.
 ## Asia
 [![Asia](Asia.jpg)](Asia_*.map)
 ## Beijing
-[![Beijing](BeiJing.jpg)](BeiJing_*.map)
+[![Beijing](BeiJing.jpg)](BeiJing_*.map)  
+[![Beijing](BeiJing2.jpg)](BeiJing_*.map)
 ## Japan
 [![Japan](Japan.jpg)](Japan_*.map)
 ## Korea
