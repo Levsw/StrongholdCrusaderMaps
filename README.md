@@ -1,14 +1,18 @@
 # Some maps for Stronghold Crusader
 These maps paint from the map of real world by me.  
-[![Title](title.png)](https://github.com/Levsw/StrongholdCrusaderMaps)  
+[![Title](title.jpg)](https://github.com/Levsw/StrongholdCrusaderMaps)  
 [This map on tieba](https://tieba.baidu.com/p/6027784104)  
 # Images
 ## China
-[![China](img1.jpg)](China_*.map)
+[![China](China.jpg)](China_*.map)
 ## Asia
-[![Asia](img2.jpg)](Asia_*.map)
+[![Asia](Asia.jpg)](Asia_*.map)
 ## Beijing
-[![Beijing](img3.jpg)](BeiJing_*.map)
+[![Beijing](BeiJing.jpg)](BeiJing_*.map)
+## Japan
+[![Japan](Japan.jpg)](Japan_*.map)
+## Korea
+[![Korea](Korea.jpg)](Korea_*.map)
 # Name rules
 China_X_：以汉地18省为主 X代表批次，批次不同地图略微不同  
 BeiJing_X_：以我的经典地图《北京城》为主 X代表批次，批次不同地图略微不同  
