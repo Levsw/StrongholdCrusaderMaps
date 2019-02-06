@@ -1,7 +1,10 @@
 # Some maps for Stronghold Crusader
 These maps paint from the map of real world by me.  
 [![Title](title.jpg)](https://github.com/Levsw/StrongholdCrusaderMaps)  
-[This map on tieba](https://tieba.baidu.com/p/6027784104)  
+[This map on tieba](https://tieba.baidu.com/p/6027784104)
+
+[![BeijingGif](BeiJing_gif.gif)]()  
+[![AsiaGif](Asia_gif.gif)]()
 # Images
 ## China
 [![China](China.jpg)](China_*.map)
@@ -9,7 +12,7 @@ These maps paint from the map of real world by me.
 [![Asia](Asia.jpg)](Asia_*.map)
 ## Beijing
 [![Beijing](BeiJing.jpg)](BeiJing_*.map)  
-[![Beijing](BeiJing2.jpg)](BeiJing_*.map)
+[![Beijing2](BeiJing2.jpg)](BeiJing_*.map)  
 ## Japan
 [![Japan](Japan.jpg)](Japan_*.map)
 ## Korea
